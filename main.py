@@ -4,7 +4,7 @@ import os
 import tempfile
 
 
-JOKE = "You left it on the floor. The floor is my mouth. I don't see the problem."
+JOKE = "There was a crumb under your sock. I'd do it again."
 
 
 def write_entry(text: str, path: str = "/output/entry.txt") -> None:
